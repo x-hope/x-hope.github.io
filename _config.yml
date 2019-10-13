@@ -18,7 +18,7 @@ description: > # this means to ignore newlines until "baseurl:"
   基于 jekyll 的 Github Pages 个人博客网站
 baseurl: ""
 url: "https://x-hope.github.io/."
-permalink: /:year/:month/:day/:title
+permalink: /:year/:month/:day/:hour/:min/:title
 repository: x-hope/x-hope.github.io
 paginate: 5
 
